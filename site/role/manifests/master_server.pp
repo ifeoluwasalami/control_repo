@@ -1,4 +1,4 @@
 class role::master_server {
   include profile::base
-  include profile::web
+  include profile::agent_node
 }
