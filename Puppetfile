@@ -1,7 +1,6 @@
 mod 'puppet-nginx', '3.3.0'
 mod 'puppetlabs/stdlib'
 mod 'puppetlabs/concat'
-mod 'https://github.com/ifeoluwasalami/dockeragent.git'
 mod 'puppetlabs-docker'
 mod 'puppetlabs-powershell'
 mod 'puppetlabs-apt'
